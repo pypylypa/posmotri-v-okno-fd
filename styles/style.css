@@ -300,11 +300,11 @@ input::placeholder {
 }
 
 .search-form__checkbox:checked + .search-form__pseudo-checkbox::after {
-display: block;
-content: '';
-block-size: 19px;
-inline-size: 19px;
-background-color: #fff;
+  display: block;
+  content: '';
+  block-size: 19px;
+  inline-size: 19px;
+  background-color: #fff;
 }
 
 .search-form__label:hover .search-form__label-text {
